@@ -17,10 +17,13 @@ To run the application locally, follow these steps:
 
 1. Install the dependencies:
        ```
+   
        npm install
 
+
        ```
-2. Start the server:
+   
+3. Start the server:
        ```
 
        npm run dev
