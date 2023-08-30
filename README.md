@@ -15,19 +15,11 @@ This a RESTful service that allows for searching the following XML document, htt
 
 To run the application locally, follow these steps:
 
- 1. ```
-       npm install
-
-       ```
-   2. Start the server:
-       ```
-
-       npm run dev
-
-       ```
-      The server will start running at **http://localhost:8000**.
-
-      The server will start running at **http://localhost:8000**.
+1. ```npm install```
+2. Start the server:
+       ```npm run dev```
+      
+The server will start running at **http://localhost:8000**.
 
 ### NPM(Node Package Manager)
 
